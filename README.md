@@ -1,11 +1,8 @@
 # Tic-Tac-Toe-Objc
 Introduction Project on iPhone App with Single Player Tic-Tac-Toe against Device. Where Device Always wins or ties, but never loses
 
-![screenshot](TicTacToe.png =100x200)
-img[alt="screenshot"] { 
-  max-width:  20px; 
-  display: block;
-}
+![](TicTacToe.png)
+
 Features:
 
 1. Support Both iPhone / iPad
